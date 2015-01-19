@@ -1,0 +1,17 @@
+{
+  "uuid": "90309e7f-a2f9-4d80-82eb-257fa6ed43be",
+  "shortName": "gotime",
+  "longName": "gotime",
+  "companyName": "Rick Ucker",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
